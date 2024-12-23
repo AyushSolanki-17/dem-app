@@ -1,0 +1,6 @@
+[submodule "dem-backend"]
+	path = dem-backend
+	url = git@github.com:AyushSolanki-17/dem-backend.git
+[submodule "dem-frontend"]
+	path = dem-frontend
+	url = git@github.com:AyushSolanki-17/dem-frontend.git
